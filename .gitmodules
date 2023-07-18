@@ -1,0 +1,4 @@
+[submodule "rlqp_benchmarks"]
+	path = rlqp_benchmarks
+	url = git@github.com:BerkeleyAutomation/rlqp_benchmarks.git
+	branch = rlqp
